@@ -1,6 +1,6 @@
 # RoR-Vulkan-Wrapper
-Vulkan API wrapper for Return of Reckoning
+Vulkan API wrapper for [Return of Reckoning](https://www.returnofreckoning.com)
 
 Extract to the base of your Return of Reckoning folder
 
-Found on https://thewarcamp.com/guides/optimize-warhammer-online/
+Found on [The War Camp](https://thewarcamp.com/guides/optimize-warhammer-online/)
